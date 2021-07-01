@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Samuel Ján Mucha and my nickname on github is @MonkeyBoy9999996.
+- 👀 I’m interested in IT technologies. I like to program in python 3 and C/C++. My fields of interest are ML, DL, AI, web technologies and programming of applications.
+- 🌱 I’m currently learning Go and dive deep into my current skills.
+- 💞️ I’m looking to collaborate on any project where I can be helpful.
+- 📫 How to reach me : - samueljanmucha1@gmail.com
